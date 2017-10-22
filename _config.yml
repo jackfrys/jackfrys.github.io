@@ -16,7 +16,7 @@
 title: Jack Frysinger
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jack's first real attempt to build a personal website.
+  Jack's first real attempt to build a personal website. Bear with me as I develop my tone and discover interesting things to write about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jackfrysinger.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jackfrys
