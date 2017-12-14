@@ -36,11 +36,11 @@ The Express files were then in the `recipes` subdirectory, and the Angular app l
 
 The most important changes to make React play nicely with the backend and Angular apps were in `server.js` - the main script fired by Node:
 
-* The `client` subdirectory needed to be exposed publicly. When the server returns the base React HTML file, the browser needs to be able to load the accompanying files - like the JS files required to make the app run properly.
+First, the `client` subdirectory needed to be exposed publicly. When the server returns the base React HTML file, the browser needs to be able to load the accompanying files - like the JS files required to make the app run properly.
 
 `app.use(express.static(__dirname + '/client/build'));` worked fine for me - I put it right below the similar statement for the `public` subdirectory, the one used to serve the Angular app. This way, the apps can live in separate subdirectories without interfering.
 
-* Let the server send down the React files when necessary. Some paths will trigger the Angular app and others will trigger the Express API endpoints - now it's time to let everything else send the base React file. As best as I understand, React runs in a single page like Angular, and the JS components manipulate the DOM to change what the page looks like. The Web address path can be a variety of things - it probably specifies to some degree what the React app is doing - but in all cases we want to return that single HTML file.
+Next, let the server send down the React files when necessary. Some paths will trigger the Angular app and others will trigger the Express API endpoints - now it's time to let everything else send the base React file. As best as I understand, React runs in a single page like Angular, and the JS components manipulate the DOM to change what the page looks like. The Web address path can be a variety of things - it probably specifies to some degree what the React app is doing - but in all cases we want to return that single HTML file.
 
 So I just need to add one more Express endpoint below all the others as a final catch all:
 `app.get('*', function (req, res) {
