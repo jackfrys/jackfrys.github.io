@@ -43,9 +43,11 @@ First, the `client` subdirectory needed to be exposed publicly. When the server 
 Next, let the server send down the React files when necessary. Some paths will trigger the Angular app and others will trigger the Express API endpoints - now it's time to let everything else send the base React file. As best as I understand, React runs in a single page like Angular, and the JS components manipulate the DOM to change what the page looks like. The Web address path can be a variety of things - it probably specifies to some degree what the React app is doing - but in all cases we want to return that single HTML file.
 
 So I just need to add one more Express endpoint below all the others as a final catch all:
-`app.get('*', function (req, res) {
+```javascript
+app.get('*', function (req, res) {
     res.sendFile(__dirname + '/client/build/index.html');
-});`
+});
+```
 
 At this point, I could also go through and cut out the hostname from each API call in the React app.
 
