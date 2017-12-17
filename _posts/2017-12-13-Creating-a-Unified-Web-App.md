@@ -71,9 +71,9 @@ Turns out I just needed to add one property to the top-level `package.json`. Und
 
 `"heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"`
 
-which just lets Heroku know what the run to get the repo ready for production. It makes sure the dependencies are installed and kicks off the React build. Once the React project is built into the client files, the Express endpoint just serves them statically.
+which just lets Heroku know what to run to get the repo ready for production. It makes sure the dependencies are installed and kicks off the React build. Once the React project is built into the client files, the Express endpoint just serves them statically.
 
 I had auto Heroku deployments turned on, so the project was ready shortly after pushing!
 
 ## Deliverables
-The [Git repo](https://github.com/jackfrys/recipe-man) and [Heroku deployment](https://recipe-man-db.herokuapp.com).
+The [Git repo](https://github.com/jackfrys/recipe-man) and [Heroku deployment](http://recipeman.jackfrysinger.com).
