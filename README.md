@@ -1,4 +1,4 @@
-# [My Persomal Website](http://jackfrysinger.com)
+# [My Personal Website](http://jackfrysinger.com)
 
 My first real attempt to build a personal website. Bear with me as I develop my tone and discover interesting things to write about.
 
