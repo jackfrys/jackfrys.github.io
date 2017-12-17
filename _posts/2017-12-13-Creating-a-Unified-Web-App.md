@@ -57,7 +57,7 @@ First, I added this property to `client/package.json`:
 
 I think that just specifies this host as the backend to use.
 
-Then, for example, `http://recipe-man-db.herokuapp.com/api/users` can become `/api/users`.
+Then, for example, `http://recipeman.jackfrysinger.com/api/users` can become `/api/users`.
 
 ## Build and Run
 The React JS components need to be compiled into a minified JS script for execution. I wanted to make sure it worked fine locally before fiddling with my Heroku deployment.
