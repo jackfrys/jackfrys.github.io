@@ -32,7 +32,7 @@ The `--allow-unrelated-histories` option is very important - without it, Git thr
 
 ## React, Express, Angular, oh my!
 
-The Express files were then in the `recipes` subdirectory, and the Angular app lives in `public/angular`. I added a new subdirectory `client` to the top level to place the React sources - the new `client/src` and `client/public` subdirectories, as well as some other package files. Those subdirectories and files come directly from my merged front end project.
+The Express files were then in the `recipe-man` subdirectory, and the Angular app lives in `public/angular`. I added a new subdirectory `client` to the top level to place the React sources - the new `client/src` and `client/public` subdirectories, as well as some other package files. Those subdirectories and files come directly from my merged front end project.
 
 The most important changes to make React play nicely with the backend and Angular apps were in `server.js` - the main script fired by Node:
 
