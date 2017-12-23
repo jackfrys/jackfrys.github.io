@@ -2,7 +2,7 @@ This past semester for my Database Design class two other students and I put tog
 
 We ran into some issues early on putting the React and Node code in the same repo and having them play nicely together on Heroku, where we hosted the project. Once React development heated up, my two partners split their front end work into a second repository and hosted the product on a different server to reduce friction. After all, the point was to achieve an MVP that demonstrated our proficiency with databases, not to show off dev-ops skills.
 
-It ended up being a good move for the scope of the project, and it allowed me to slide in an Angular app with minimal adjustments to the backend repo. The biggest drawback of splitting the repos up was how it affected backend API calls from the React app. First, we needed to enable Cross-Origin Resource Sharing in the backend app to allow requests from the React domain. Next, it led to hard-coding the API calls hostname to that of the Heroku server - which did not easily allow switching to a local backend for local development.
+It ended up being a good move for the scope of the project, and it allowed me to slide in an Angular app with minimal adjustments to the backend repo. The biggest drawback of splitting the repos up was how it affected backend API calls from the React app. First, we needed to enable Cross-Origin Resource Sharing in the backend app to allow requests from the React domain. Next, it led to hard-coding the API calls hostname to that of the Heroku server, which did not easily allow switching to a local backend for local development.
 
 The latter could probably be dome with environment variables, but that isn't an ideal solution since the local machine would need to run two servers at once.
 
