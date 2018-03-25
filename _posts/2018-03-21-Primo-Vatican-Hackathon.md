@@ -4,4 +4,8 @@ I am currently working on my third co-op with HubSpot in Cambridge, Massachusett
 
 Weeks went by and little by little I found out more about the event iteslf. Via the social-network group set up for the participants, I found out that while many of the students attenting were also from the US, many came from Europe and other places around the world as well. Aside from some partner-university groups, teams would be selected by the event staff and announced just prior to March 7.
 
-Apparently the Holy See is interested in using technology to solve global issues, with the themes of this hackathon broadly fitting into those of social inclusion, refugee and migrant crises, and interfaith communication. On my application I had indicated my preference towards the first of which, and thus I was placed on a team set to tackle human conditions that divide us.
+Apparently the Holy See is interested in using technology to solve global issues, with the themes of this hackathon broadly fitting into those of social inclusion, refugee and migrant crises, and interfaith communication. On my application I had indicated my preference towards the first of which, and thus I was placed on one of the teams set to tackle human conditions that divide us.
+
+# Beating the Storm
+
+On Sunday night, three days before my scheduled departure, I started getting increasingly concerned about the weather forecasts for the week. The Boston area was slated to deal with a Nor'easter on Wednesday, making flight cancellations pretty likely.
