@@ -41,3 +41,5 @@ Around boarding time, I ventured back to the other side of the terminal and join
 (About 24 hours later, Air France flight 333 look off from Boston Logan without a hitch, and it landed in France on time the next morning. The storm was a huge letdown and I may have overreacted. That's also New England weather for you!)
 
 I had just 90 minutes at Schiphol, which is really a shame. It's a neat airport that I spent more time at a few years prior while departing. But I had to enter the Schengen area and didn't have enough time to explore before boarding my next flight.
+
+Of course, by this point I was more relaxed about the my haphazard flight arrangement now that I was actually on the right continent - my ability to solve problems goes up tremendously when I can just take a train to my final destination if need be. But when I boarded the KML flight on to Rome, I discovered someone else assigned to the very same seat as me, as confirmed by their boarding pass. Fortunately the flight attendants were flexible and there was an empty seat a few rows back, so after confirming that the plane was going to Italy, I settled in for the short flight south.
