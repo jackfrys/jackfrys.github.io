@@ -1,3 +1,8 @@
+---
+layout: post
+title: Creating a Unified Web App
+---
+
 This past semester for my Database Design class two other students and I put together a culinary web app for tracking recipes and pantry inventory. To power the project, I built a Node backend using Express and mongoDB. The other members of my group used React to make a nice user interface, and I also threw together a simple Angular app to provide some admin features on the front end.
 
 We ran into some issues early on putting the React and Node code in the same repo and having them play nicely together on Heroku, where we hosted the project. Once React development heated up, my two partners split their front end work into a second repository and hosted the product on a different server to reduce friction. After all, the point was to achieve an MVP that demonstrated our proficiency with databases, not to show off dev-ops skills.

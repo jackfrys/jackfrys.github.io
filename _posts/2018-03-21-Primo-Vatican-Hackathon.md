@@ -1,3 +1,8 @@
+---
+layout: post
+title: Primo Vatican Hackathon
+---
+
 Earlier in March I was fortunate enough to go participate in the first-ever hackathon held at the Vatican! Yes, *the* Vatican. I came to know about the event, affectionately known as VHacks, because my roommate at Apple last year was part of the organizing team, and I applied back in December. By January I was notified of my acceptance and the fun of planning my first trip to Italy began!
 
 I am currently working on my third co-op with HubSpot in Cambridge, Massachusetts. I didn't want to miss too much work due to the hackathon, so I booked my travel plans tightly around the four-day event. My plan was to leave from Boston Logan on Wednesday night, get there just in time for the hacking portion from Tuesday to Saturday, and depart again from Fiumicino on Monday following the Sunday activities. I found a neat itinerary on Air France featuring a transfer through Paris on the way out and an Alitalia-operated nonstop on the way back. The BOS-CDG leg was even on a Dreamliner - nice! I booked through Expedia to save $100 and submitted my travel confirmation to the VHacks team by the deadline in mid-January.
