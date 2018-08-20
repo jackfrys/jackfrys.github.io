@@ -22,9 +22,11 @@ author:
   email:             jack@jackfrysinger.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jackfrys/jackfrys.github.io
+pages_list:
+  [["About", "/about"]]
 
 # Gems
 plugins:
