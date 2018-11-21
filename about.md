@@ -9,3 +9,5 @@ I am a fifth-year computer science student at Northeastern University in Boston,
 I graduate in a few weeks, and then I'm headed back to sunny California.
 
 In my free time I enjoy battling crossword puzzles, listening to music and podcasts, drinking Dunkin’ Donuts, traveling, skiing, and cheering on the Red Sox and Patriots. I'm hoping to take up scuba diving again in the short term and eventually learn to fly airplanes.
+
+This is my best attempt to craft a personal website. Bear with me as I develop my tone and discover interesting things to write about.
