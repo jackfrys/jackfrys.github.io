@@ -25,7 +25,7 @@ I forgot to transfer hidden files too - `.gitignore` gave me a merge conflict do
 
 Next I committed those changes - just moving every backend file from `~/recipe-man` to `~/recipe-man/backend`.
 
-`git commit -am "Moved files to subdirectory"`
+`git commit -am "Move files to subdirectory"`
 
 Now let's grab the React files.
 
