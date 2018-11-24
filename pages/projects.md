@@ -6,7 +6,7 @@ permalink: /projects/
 
 Here are a few things I've worked on.
 
-### Hot + Cold
+## Hot + Cold
 
 [GitHub](https://github.com/jackfrys/hot-cold) - Swift, Carthage, SwiftyBeaver
 
@@ -15,7 +15,7 @@ Hot + Cold is a fun navigation game for iOS. All you need to play is a point-of-
 The app was initially developed by a group of my friends and me at HackBeanpot back during our first year at Northeastern. Later I went back and cleaned it up enough to give away on the App Store. Since then, I've used it as a test bed to try out different aspects of iOS development, including dependency management, automated UI testing, and improved AutoLayout.
 
 
-### 3-D Crossword
+## 3-D Crossword
 
 [Try it](https://johnwestwig.github.io/three-d-crossword/) - [GitHub](https://github.com/JohnWestwig/three-d-crossword) - JavaScript, Three.js
 
@@ -24,7 +24,7 @@ The 3-D Crossword gives more depth to the traditional puzzle experience. Each le
 The game was developed this past summer during MakerWeek at the New York Times. Each year, employees across the company are invited to spend a week exploring a new projects, and a group of other interns and me set out to build this prototype. The idea nicely complimented my work on the Puzzles team at the Times, and I had recently taken an interest in crossword puzzles themselves. I tried my hand writing some clues, and the results speak for themselves.
 
 
-### Recipe Man
+## Recipe Man
 
 [Try it](http://recipeman.jackfrysinger.com) - [GitHub](https://github.com/jackfrys/recipe-man) - JavaScript/Node, mongoDB, Angular, React
 
