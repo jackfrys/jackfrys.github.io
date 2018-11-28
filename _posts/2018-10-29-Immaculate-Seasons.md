@@ -19,4 +19,4 @@ After watching a bunch of dropped games at the end of the regular season, I star
 
 Why did I feel this way? Boston has been up here before, but never after such a great regular season, and I never felt as pessimistic about the other winning clubs. I guess it just didn't seem real this time after all the emotional attachment and disappointment from recent years.
 
-It feels different this October because I feel unprecedented contentedness I love this organization and will be stoked for next season - I'll be watching from far away, but I'll be there. And no matter how the winter plays out and the team's success in 2019, I'll always have this immaculate season.
+It feels different this October because I feel unprecedented contentedness. I love this organization and will be stoked for next season - I'll be watching from far away, but I'll be there. And no matter how the winter plays out and the team's success in 2019, I'll always have this immaculate season.
