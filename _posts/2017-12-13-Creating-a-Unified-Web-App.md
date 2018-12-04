@@ -9,7 +9,7 @@ We ran into some issues early on putting the React and Node code in the same rep
 
 It ended up being a good move for the scope of the project, and it allowed me to slide in an Angular app with minimal adjustments to the backend repo. The biggest drawback of splitting the repos up was how it affected backend API calls from the React app. First, we needed to enable Cross-Origin Resource Sharing in the backend app to allow requests from the React domain. Next, it led to hard-coding the API calls hostname to that of the Heroku server, which did not easily allow switching to a local backend for local development.
 
-The latter could probably be dome with environment variables, but that isn't an ideal solution since the local machine would need to run two servers at once.
+The latter could probably be done with environment variables, but that isn't an ideal solution since the local machine would need to run two servers at once.
 
 So in trying to make this situation better (as an exercise, after the project was graded!) I set out to combine these two repos and deploy them together on Heroku. But I also didn't just want to copy the React files into the backend repo, thereby losing valuable commit history.
 
@@ -19,7 +19,7 @@ This proved to be a little tricky since I was essentially merging two branches w
 
 `cd ~/recipe-man # local backend working directory`
 
-At this point, I jumped over to this directory in Finder (`open .`) and put every item inside a subdirectory called `backend`. This is to avoid any merge conflicts - there is no obvious way to actually combine the files into a working project (we'll get to this later), so I would rather have Git just get the files in the same repo and then get out of the way. We'll build the files back into a project manually later.
+At this point, I jumped over to this directory in Finder (`open .`) and put every item inside a subdirectory called `backend`. This is to avoid any merge conflicts - there is no obvious way to actually combine the files into a working project (we'll get to this later), so I would rather have Git just migrate the files between repos and then get out of the way. We'll build the files back into a project manually later.
 
 I forgot to transfer hidden files too - `.gitignore` gave me a merge conflict down the road.
 

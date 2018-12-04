@@ -21,7 +21,7 @@ The app was initially developed by a group of my friends and me at HackBeanpot b
 
 The 3-D Crossword gives more depth to the traditional puzzle experience. Each letter can be in up to three entries at once - a big step up from just two. A willingness to see new perspectives, as well as patience for the terrible fill and cluing, are needed to solve the enigma.
 
-The game was developed this past summer during MakerWeek at the New York Times. Each year, employees across the company are invited to spend a week exploring a new projects, and a group of other interns and me set out to build this prototype. The idea nicely complimented my work on the Puzzles team at the Times, and I had recently taken an interest in crossword puzzles themselves. I tried my hand writing some clues, and the results speak for themselves.
+The game was developed this past summer during MakerWeek at the New York Times. Each year, employees across the company are invited to spend a week exploring a new projects, and a group of other interns and I set out to build this prototype. The idea nicely complimented my work on the Games team at the Times, and I had recently taken an interest in crossword puzzles themselves. I tried my hand writing some clues, and the results speak for themselves.
 
 
 ## Recipe Man
