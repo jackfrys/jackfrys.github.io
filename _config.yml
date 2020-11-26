@@ -26,7 +26,7 @@ version:             1.0.0
 github:
   repo:              https://github.com/jackfrys/jackfrys.github.io
 pages_list:
-  [["About", "/about"], ["Projects", "/projects"], ["Podcasts", "/podcasts"]]
+  [["About", "/about"], ["Projects", "/projects"]]
 
 # Gems
 plugins:
