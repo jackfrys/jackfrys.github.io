@@ -18,14 +18,14 @@ sass:
 author:
   name:              Jack Frysinger
   url:               https://twitter.com/jackfrys
-  email:             jack@jackfrysinger.com
+  email:             hello@jackfrysinger.com
 
 # Custom vars
 version:             1.0.0
 github:
   repo:              https://github.com/jackfrys/jackfrys.github.io
 pages_list:
-  [["About", "/about"], ["Projects", "/projects"]]
+  [["About", "/about"]]
 
 # Gems
 plugins:
